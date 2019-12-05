@@ -18,6 +18,7 @@ public class Cartline {
 	@Column(name = "cartId")
 	private long cartlineId;
 	
+	
 	private UserProfile userProfile;
 	
 	private Product product;
